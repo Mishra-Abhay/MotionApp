@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Motion App</string>
+    <string name="activity_4_title">New One</string>
+    <string name="activity_4_tagline">Offline is better than online</string>
+    <string name="activity_4_para_1"><![CDATA[
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos est minus omnis quo ratione veniam.    ]]></string>
+</resources>
